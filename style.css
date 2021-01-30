@@ -1,0 +1,46 @@
+body{
+  content:"";
+  background-color:#FFF1F5;
+  
+}
+
+}
+.sub2{
+font-family: 'Raleway', sans-serif;
+  background-color:#FCCC8E;
+  font-size: bold;
+  text-transform: capitalize;
+  text-align: right;
+  border-right:5px solid #77C3FF;
+  border-radius:5px;
+  padding:12px;
+  margin:8px;
+}
+.sub{
+  font-family: 'Playfair Display', serif;
+  text-transform: capitalize;
+  font-weight: 900;
+  margin:8px;
+  padding:2px;
+  
+  
+}
+
+.input{
+  border:none;
+  border-radius:5px;
+  font-family:  'Raleway', sans-serif;
+  padding:3px;
+  margin:4px;
+  text-transform: uppercase;
+  width:80%;
+  margin-top:12px;
+}
+fieldset{
+  padding:15px;
+  font-style: italic;
+  border:8px solid #EDC395;
+}
+.hi{
+  
+}
